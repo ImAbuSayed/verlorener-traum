@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verlorener-traum/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Verlorener Traum](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verlorener-traum/) |
+| **Get License** | [Music Rights & Licensing for Verlorener Traum](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verlorener-traum/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, steig in mein'n Wagen, wir rasen ins Nichts
+> Deine Augen wie Sterne im Schatten des Lichts
+> Der Bass schlägt wie Wahnsinn, wir beide sind high
+> Ein verlorener Traum, doch heute sind wir frei
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
