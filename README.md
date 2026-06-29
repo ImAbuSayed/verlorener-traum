@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verlorener-traum/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Verlorener Traum](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verlorener-traum/) |
+| **Get License** | [License this song: Verlorener Traum](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verlorener-traum/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4c10d7c2a960d5891635d832e8d48ba2fdf1c710c3734300124df5f102f04d3d` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
